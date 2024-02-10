@@ -1,0 +1,95 @@
+.signout{
+    color: rgb(165, 163, 163);
+    padding-top: 5px;
+}
+.signout:hover{
+    color: #cac9c9;
+    cursor: pointer;
+}
+.company-name h5 a{
+    text-decoration: none;
+    color: #fff;
+}
+.company-name{
+    padding-top: 5px;
+}
+.form-control-dark {
+    color: #fff;
+    background-color: rgba(255, 255, 255, .1);
+    border-color: rgba(255, 255, 255, .1);
+}
+.form-control{
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    padding: .75rem 1rem;
+    border-width: 0;
+    border-radius: 0;
+}
+.side-navs a{
+    color: black;
+    font-weight: 600;
+}
+.side-navs svg{
+    color: rgb(128, 126, 126);
+}
+.side-navs a:hover{
+    color: black;
+}
+.side-navs svg:hover{
+    color: black;
+}
+.side-navs-2 a{
+    color: black;
+    font-weight: 600;
+}
+.side-navs-2 a:hover{
+    color: black;
+}
+.side-navs-2 svg{
+    color: rgb(128, 126, 126);
+}
+.side-navs-2 svg:hover{
+    color: black;
+}
+.para-desc p{
+    font-size: 13px;
+    color: rgb(110, 110, 110);
+}
+.status p{
+    background-color: lightgreen;
+    font-weight: 600;
+    width: 75%;
+    text-align: center;
+    border-radius: 5px;
+}
+.status-2 p{
+    background-color: rgb(247, 179, 179);
+    font-weight: 600;
+    width: 75%;
+    text-align: center;
+    border-radius: 5px;
+}
+.status-3 p{
+    background-color: rgb(252, 215, 200);
+    font-weight: 600;
+    width: 75%;
+    text-align: center;
+    border-radius: 5px;
+    color: orange;
+}
+.dot-icon a i{
+    color: black;
+}
+.footer-font{
+    font-size: 13px;
+    font-weight: 500;
+}
+.footer-font a{
+    text-decoration: none;
+    color: black;
+}
